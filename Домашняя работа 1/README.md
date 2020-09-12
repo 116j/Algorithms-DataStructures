@@ -4,4 +4,4 @@
 Данная программа показывает пользовоталю окно с сообщением. Если пользователь наживаемт на кнопку "Да", то программа закрывает текущее окно и открывает новое уже с другим заголовком и другим текстом. В противном случае программа завершает свое выполнение.
 
 ### * Код программы
-![Image alt](Ahttps://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm1/code.png)
+![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm1/code.png)
