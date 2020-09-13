@@ -9,6 +9,7 @@
 
 ### - Результат
 
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm1/exe.png)
 
 ![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm1/exe2.png)
 
