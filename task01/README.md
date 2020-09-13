@@ -5,13 +5,13 @@
 
 ### - Код программы
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm1/code.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm1/code.png)
 
 ### - Результат
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm1/exe1.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm1/exe1.png)
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm1/exe2.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm1/exe2.png)
 
 
 ## Программа 2
@@ -19,15 +19,15 @@
 
 ### - Код программы 
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm2/code.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm1/code.png)
 
 ### - Результат
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm2/exe1.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm2/exe1.png)
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm2/exe2.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm2/exe2.png)
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm2/exe3.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm2/exe3.png)
 
 
 ## Программа 3
@@ -35,13 +35,13 @@
 
 ### - Код программы 
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm3/code.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm3/code.png)
 
 ### - Результат
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm3/exe1.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm3/exe1.png)
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm3/exe2.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm3/exe2.png)
 
 
 ## Программа 4
@@ -49,11 +49,11 @@
 
 ### - Код программы 
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm4/code.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm4/code.png)
 
 ### - Результат
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm4/exe.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm4/exe.png)
 
 
 ## Программа 5
@@ -61,16 +61,16 @@
 
 ### - Код программы 
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm5/code1.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm5/code1.png)
 
 ### - Результат
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm5/exe1.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm5/exe1.png)
 
 ### - Код программы с другими данными
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm5/code2.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm5/code2.png)
 
 ### - Результат с другими данными
 
-![Image alt](https://github.com/116j/Algorithms-DataStructures/blob/master/Домашняя%20работа%201/Programm5/exe2.png)
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task01/Programm5/exe2.png)
