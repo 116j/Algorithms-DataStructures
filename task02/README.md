@@ -13,11 +13,11 @@
 
 ![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task02/images/errorG.png)
 
-* При вводе массива, в котором нет нечетных элементов, ничего не выводится
+* При вводе массива, в котором нет нечетных элементов, ничего не выводится:
 
 ![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task02/images/none.png)
 
-* При вводе массива больше указанной длины считывается только указаное количество элементов
+* При вводе массива больше указанной длины считывается только указаное количество элементов:
 
 ![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task02/images/moretS.png)
 
