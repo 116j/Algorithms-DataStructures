@@ -7,6 +7,8 @@
 
 ![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task02/images/norm.png)
 
+![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task02/images/norm2.png)
+
 * При вводе размера массива больше 100 или меньше 1 выводится сообщение об ошибке и завершается программа:
 
 ![Image alt](https://github.com/116j/HSE_FCS_SE-ADS/blob/master/task02/images/errorL.png)
