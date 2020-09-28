@@ -21,8 +21,8 @@ section '.data' data readable writable
 
         sizeA dd ?
         sizeB dd ?
-        A rb 100
-        B rb 100
+        A rd 100
+        B rd 100
         el dd ?
         tmp dd ?
 
