@@ -6,10 +6,10 @@ include 'win32a.inc'
 section '.data' data readable writable
         fmt_string db 'PI with an accuracy %lf%% by the Riemann zeta function: %fl',13, 10, 0
 
-        r_pi dq 0.0  ; (pi^2)/6  - результат дзета-функции Римана
-        pi dq 0.0 ; само число Пи, полученное с помощью дзета-функции Римана
-        prev_pi dq 0.0 ; предыдущее число Пи, полученное с помощью дзета-функции Римана
-        ac dq 0.0 ; точность вычисления
+        r_pi dq 0 ; (pi^2)/6  - результат дзета-функции Римана
+        pi dq 0 ; само число Пи, полученное с помощью дзета-функции Римана
+        prev_pi dq ? ; предыдущее число Пи, полученное с помощью дзета-функции Римана
+        ac dq ? ; точность вычисления
         i dd 1 ; количество итераций цикла
         tmp dq ? ; переменная для хранения временных значений
         n_ac dq 0.001 ; требуемая точность вычисления Пи
@@ -20,7 +20,8 @@ section '.data' data readable writable
 
 PI:
       mov [stk], esp
-
+      finit
+      
       lp:
          fld [pi]
          fstp [prev_pi] ; prev_pi=pi
