@@ -1,0 +1,18 @@
+A = { -6 -3 0 5 6 9 34 }
+
+B = { -9 0 2 5 6 15 23 34 45 74 }
+
+C = { -9 2 15 23 45 74 }
+
+C is not union of A and B
+union of A and B = { -9 -6 -3 0 2 5 6 9 15 23 34 45 74 }
+
+C is not difference between A and B
+difference between A and B = { -6 -3 9 }
+
+C is not intersection of A and B
+intersection of A and B = { 0 5 6 34 }
+
+C is difference between B and A
+difference between B and A = { -9 2 15 23 45 74 }
+

@@ -1,0 +1,18 @@
+A = { -55 -44 -5 -4 -2 3 4 5 7 21 56 75 200 }
+
+B = { -45 -29 -4 -2 0 3 7 12 21 34 53 55 56 75 88 }
+
+C = { -4 -2 3 7 21 56 75 }
+
+C is intersection of A and B
+intersection of A and B = { -4 -2 3 7 21 56 75 }
+
+C is not difference between A and B
+difference between A and B = { -55 -44 -5 4 5 200 }
+
+C is not union of A and B
+union of A and B = { -55 -45 -44 -29 -5 -4 -2 0 3 4 5 7 12 21 34 53 55 56 75 88 200 }
+
+C is not difference between B and A
+difference between B and A = { -45 -29 0 12 34 53 55 88 }
+
