@@ -8,8 +8,8 @@
 std::mutex mutex;
 std::ofstream out;
 // краткие имена типов для удобства
-using set = typename std::set<int>;
-using It = typename std::set<int>::iterator;
+using set = typename std::set<size_t>;
+using It = typename std::set<size_t>::iterator;
 // итератор для заполнения результата функции
 using Inserter = std::insert_iterator<set>;
 // тип функции для вычесления множества(пересечение, объединение или разность)
