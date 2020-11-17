@@ -1,18 +1,18 @@
-A = { -3 -1 4 5 84 }
+A = { 1 3 4 5 84 }
 
-B = { -9 -7 0 2 4 5 18 22 }
+B = { 0 2 4 5 7 9 18 22 }
 
-C = { -9 -7 -3 -1 0 2 4 5 18 22 84 }
+C = { 0 1 2 3 4 5 7 9 18 22 84 }
+
+C is union of A and B
+union of A and B = { 0 1 2 3 4 5 7 9 18 22 84 }
 
 C is not intersection of A and B
 intersection of A and B = { 4 5 }
 
-C is union of A and B
-union of A and B = { -9 -7 -3 -1 0 2 4 5 18 22 84 }
-
 C is not difference between A and B
-difference between A and B = { -3 -1 84 }
+difference between A and B = { 1 3 84 }
 
 C is not difference between B and A
-difference between B and A = { -9 -7 0 2 18 22 }
+difference between B and A = { 0 2 7 9 18 22 }
 
