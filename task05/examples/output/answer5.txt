@@ -1,0 +1,18 @@
+A = { 0 1 2 3 4 5 6 7 12 23 24 25 32 33 34 35 45 51 54 55 56 87 99 }
+
+B = { 0 2 3 4 6 7 11 13 34 42 44 48 56 81 }
+
+C = { 4 6 7 18 22 }
+
+C is not union of A and B
+union of A and B = { 0 1 2 3 4 5 6 7 11 12 13 23 24 25 32 33 34 35 42 44 45 48 51 54 55 56 81 87 99 }
+
+C is not difference between A and B
+difference between A and B = { 1 5 12 23 24 25 32 33 35 45 51 54 55 87 99 }
+
+C is not intersection of A and B
+intersection of A and B = { 0 2 3 4 6 7 34 56 }
+
+C is not difference between B and A
+difference between B and A = { 11 13 42 44 48 81 }
+
