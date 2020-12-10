@@ -119,6 +119,7 @@ int main(int argc, char* argv[]) {
 	delete[] writers;
 	delete[] threadR;
 	delete[] readers;
+	delete[] database;
 	return 0;
 }
 
